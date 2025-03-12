@@ -1,4 +1,4 @@
-## RunningActionProject
+## BubbleEscape
 
 > 성공회대학교 게임개발 강의에서 제출한 플랫포머 게임 프로젝트입니다.
 
